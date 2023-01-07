@@ -1,0 +1,9 @@
+{
+    "name": "pc/pattern",
+    "autoload": {
+        "psr-4": {
+            "Pattern\\": "src/"
+        }
+    },
+        "require": {}
+}
